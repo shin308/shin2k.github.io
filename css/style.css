@@ -1,4 +1,3 @@
-
 body {
     font-family: 'Open Sans', sans-serif;
 }
@@ -11,12 +10,12 @@ body {
     color: #fff;
 }
 
-.navbar li{
-    padding: 10px;
+.navbar li {
+    padding: 8px;
 }
 
-.navbar-header a{
-    margin-top: 10px;
+.navbar-header a {
+    margin-top: 8px;
 }
 
 .navbar-inverse .navbar-brand,
@@ -42,7 +41,6 @@ body {
     color: #ff8b38;
     font-weight: 300
 }
-
 
 /* End Navbar */
 
@@ -166,71 +164,6 @@ body {
 }
 
 /* End Header */
-
-
-/* Start Social media */
-
-.social-media {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    box-shadow: -12px -4px 14px #333;
-    -webkit-box-shadow: -12px -4px 14px #333;
-    -moz-box-shadow: -12px -4px 14px #333;
-    -o-box-shadow: -12px -4px 14px #333;
-}
-
-.social-media h4 {
-    font-weight: 700;
-    margin-bottom: 5px
-}
-
-.social-media p {
-    color: #86878b
-}
-
-.social-media .icon {
-    margin-top: 15px;
-}
-
-.social-media .icon i {
-    color: #ccc;
-    padding-right: 32px;
-    -webkit-transition: all .25s ease-in-out;
-    -moz-transition: all .25s ease-in-out;
-    -o-transition: all .25s ease-in-out;
-    transition: all .25s ease-in-out;
-    cursor: pointer;
-}
-
-.social-media .icon .fa-facebook:hover {
-    color: #3b5998
-}
-
-.social-media .icon .fa-twitter:hover {
-    color: #1da1f2
-}
-
-.social-media .icon .fa-google-plus:hover {
-    color: #dd4b39
-}
-
-.social-media .icon .fa-github:hover {
-    color: #4078c0
-}
-
-.social-media .icon .fa-instagram:hover {
-    color: #c13584
-}
-
-.social-media .icon .fa-linkedin:hover {
-    color: #0077b5
-}
-
-.social-media .icon .fa-stumbleupon:hover {
-    color: #eb4924
-}
-
-/* End Social media */
 
 
 /* Start Tab Section*/
@@ -469,11 +402,10 @@ body {
     cursor: pointer;
 }
 
-
 /*End Stlish Section*/
 
 
-/* Start contact-us section */
+/* Start Contact-us Section */
 
 .contact {
     margin-top: 100px;
@@ -484,7 +416,7 @@ body {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
     font-size: 40px;
-        margin-top: 0;
+    margin-top: 0;
 
 }
 
@@ -533,7 +465,7 @@ body {
     background: #ff9b51;
 }
 
-/* End contact-us section */
+/* End Contact-us Section */
 
 
 /* Start Footer */
@@ -561,96 +493,6 @@ body {
 }
 
 /* End Footer */
-
-
-/* Spinner */
-
-/* .loading {
-    background: #ff8b38;
-    height: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 99999;
-}
-
-.loading p {
-    color: #fff;
-    text-align: center;
-    margin-top: 40vh;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 300;
-    font-size: 25px
-}
-
-.spinner {
-    margin: 40px auto;
-    width: 40px;
-    height: 40px;
-    position: relative;
-    text-align: center;
-    -webkit-animation: sk-rotate 2.0s infinite linear;
-    animation: sk-rotate 2.0s infinite linear;
-}
-
-.dot1,
-.dot2 {
-    width: 60%;
-    height: 60%;
-    display: inline-block;
-    position: absolute;
-    top: 0;
-    background-color: #fff;
-    border-radius: 100%;
-    -webkit-animation: sk-bounce 2.0s infinite ease-in-out;
-    animation: sk-bounce 2.0s infinite ease-in-out;
-}
-
-.dot2 {
-    top: auto;
-    bottom: 0;
-    -webkit-animation-delay: -1.0s;
-    animation-delay: -1.0s;
-}
-
-@-webkit-keyframes sk-rotate {
-    100% {
-        -webkit-transform: rotate(360deg)
-    }
-}
-
-@keyframes sk-rotate {
-    100% {
-        transform: rotate(360deg);
-        -webkit-transform: rotate(360deg)
-    }
-}
-
-@-webkit-keyframes sk-bounce {
-    0%,
-    100% {
-        -webkit-transform: scale(0.0)
-    }
-    50% {
-        -webkit-transform: scale(1.0)
-    }
-}
-
-@keyframes sk-bounce {
-    0%,
-    100% {
-        transform: scale(0.0);
-        -webkit-transform: scale(0.0);
-    }
-    50% {
-        transform: scale(1.0);
-        -webkit-transform: scale(1.0);
-    }
-} */
-
-/* Spinner */
 
 
 /* Start My Freamwore */
